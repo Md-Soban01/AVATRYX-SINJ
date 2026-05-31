@@ -611,3 +611,10 @@ The project represents an exploration of hybrid analytical-neural systems that b
 
 If you find this project interesting, consider giving the repository a star.
 
+# Author
+
+**Shaikh Mohammed Soban**  
+AI & Machine Learning Engineer  
+GitHub: @Md-Soban01
+
+**Team**: Irshad, Naved, Junaid
